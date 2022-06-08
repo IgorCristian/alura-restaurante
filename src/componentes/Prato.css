@@ -6,7 +6,7 @@
     margin: 8px 0;
 }
 
-.prato .imagem-container {
+.imagem-container img{
     max-width: 100%;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
